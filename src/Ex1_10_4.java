@@ -28,13 +28,13 @@ class Ex1_10_4 {
 		**       シロ / 秋田犬　　　 / 8歳 / オス
 		*/
 		String display = "";
-		for(int i = 0; i <= animals.length; i++) {
+		for(int i = 0; i < animals.length; i++) {
 			for(int j = 0; j < animals[i].length; j++) {
 				display = display + animals[i][j] + "　/　";
 			}
-			System.out.println(display);
-
+			display = display + "\n";
 		}
+		System.out.println(display);
 		
 		
 		

@@ -6,6 +6,105 @@
     "configurations": [
         {
             "type": "java",
+            "args": [
+                "ショートケーキ", "8",
+                "モンブラン", "10",
+                "チョコレートケーキ", "3",
+                "いちごのタルト", "2",
+                "チーズケーキ", "10",
+                "チョコットケーキ", "1",
+                "パンプキンタルト", "1"
+            ],
+            "name": "Cake_Sum",
+            "request": "launch",
+            "mainClass": "Cake_Sum",
+            "projectName": "WorkspaceJava_1b268a96"
+        },
+        {
+            "type": "java",
+            "args": [
+                "1",
+                "5",
+                "777",
+                "12345",
+                "10",
+                "500",
+                "100",
+                "500",
+                "500",
+                "610"
+            ],
+            "name": "Jihan2",
+            "request": "launch",
+            "mainClass": "Jihan2",
+            "projectName": "WorkspaceJava_1b268a96"
+        },
+        {
+            "type": "java",
+            "args": [
+                "1",
+                "5",
+                "777777",
+                "10",
+                "50",
+                "100",
+                "500",
+                "10",
+                "10",
+                "50",
+                "100"
+            ],
+            "name": "Jihan",
+            "request": "launch",
+            "mainClass": "Jihan",
+            "projectName": "WorkspaceJava_1b268a96"
+        },
+        {
+            "type": "java",
+            "args": [
+                1
+            ],
+            "name": "Ex1_13_2",
+            "request": "launch",
+            "mainClass": "Ex1_13_2",
+            "projectName": "WorkspaceJava_1b268a96"
+        },
+        {
+            "type": "java",
+            "args": [
+                "2"
+            ],
+            "name": "Ex1_12_2",
+            "request": "launch",
+            "mainClass": "Ex1_12_2",
+            "projectName": "WorkspaceJava_1b268a96"
+        },
+        {
+            "type": "java",
+            "args": [
+                "100"
+            ],
+            "name": "Ex1_12_1",
+            "request": "launch",
+            "mainClass": "Ex1_12_1",
+            "projectName": "WorkspaceJava_1b268a96"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_11_2",
+            "request": "launch",
+            "mainClass": "Ex1_11_2",
+            "projectName": "WorkspaceJava_1b268a96"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_11_1",
+            "request": "launch",
+            "mainClass": "Ex1_11_1",
+            "projectName": "WorkspaceJava_1b268a96"
+        },
+        {
+            "type": "java",
             "name": "Ex1_10_1",
             "request": "launch",
             "mainClass": "Ex1_10_1",
